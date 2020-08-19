@@ -1,0 +1,6 @@
+module Pods_GayHub {
+  umbrella header "Pods-GayHub-umbrella.h"
+
+  export *
+  module * { export * }
+}
