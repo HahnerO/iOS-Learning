@@ -1,0 +1,6 @@
+framework module Pods_GayhubSwiftify {
+  umbrella header "Pods-GayhubSwiftify-umbrella.h"
+
+  export *
+  module * { export * }
+}
